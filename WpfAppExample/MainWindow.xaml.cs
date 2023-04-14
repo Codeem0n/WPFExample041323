@@ -38,7 +38,7 @@ namespace WpfAppExample
 
             MyListbox.ItemsSource = textList;
 
-            Combo1.ItemsSource = textList;
+            Combo1.ItemsSource = textList;//
 
         }
 
